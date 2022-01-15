@@ -14,3 +14,7 @@ atoms.set_calculator(atoms)
 e = atoms.get_potential_energy()
 
 ```
+
+# ASE GUI
+
+Added capability to view atoms using Generalized Coodination Number
