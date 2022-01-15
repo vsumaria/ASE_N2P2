@@ -4,7 +4,7 @@ ASE calculator for N2p2 HDNNP potential
 Example of using the N2P2 calculator with ASE: 
 
 ```
-from ase.calculators.n2p2_pt_co import N2P2Calculator
+from ase.calculators.n2p2 import N2P2Calculator
 
 atoms = read('abc.traj')
 
