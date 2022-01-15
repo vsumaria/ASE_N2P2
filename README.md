@@ -1,2 +1,2 @@
-# ASE_N2P2
+# ASE N2P2 Caculator
 ASE calculator for N2p2 HDNNP potential 
